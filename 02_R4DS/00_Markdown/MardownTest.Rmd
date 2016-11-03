@@ -5,6 +5,12 @@ date: "3 November 2016"
 output: html_document
 ---
 
+This is some house keeping commands to get directory
+```{r}
+getwd()
+list.files()
+```
+
 This is a normal sectence, in the Enlgish language. 
 ```{r}
 x <- c(1 : 10)
